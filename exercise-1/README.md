@@ -2,6 +2,16 @@
 
 ## We are making more changes!
 
+What I had for breakfast today:
+- Eggs
+- Pancakes
+- Cereal
+
+5. Commit your change (hint: use `git commit -am "msg"` to add and commit at once!)
+
+6. `checkout` the `master` branch with `git checkout master`.
+   You should see your previous sentence disappear!
+
 7. Add yet another sentence **at the top of the file** --- for example, a title or subtitle.
 
 8. Commit your change
