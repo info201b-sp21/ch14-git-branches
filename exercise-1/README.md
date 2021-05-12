@@ -1,24 +1,6 @@
 # Exercise-1
 
-In this exercise, you'll practice working with branches, including
-**merging** changes between them.
-
-For this exercise, complete the following steps:
-
-1. Clone _this_ repository.
-
-2. Open up _this_ `README.md` file in a text editor (e.g. _RStudio_ or _Atom_).
-   Be sure to open the one in the `exercise-1` folder!
-
-3. Create and `checkout` a new branch called `experiment`
-
-4. Add a sentence at the bottom of the `README.md` file. 
-   What you had for breakfast is fine. Remember to save your changes to disk!
-
-5. Commit your change (hint: use `git commit -am "msg"` to add and commit at once!)
-
-6. `checkout` the `master` branch with `git checkout master`.
-   You should see your previous sentence disappear!
+## We are making more changes!
 
 7. Add yet another sentence **at the top of the file** --- for example, a title or subtitle.
 
